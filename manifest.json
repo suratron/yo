@@ -1,12 +1,12 @@
 {
-  "name": "Larp",
-  "description": "Advanced profile larp - fake badges, username, member since, etc.",
-  "version": "11.1.5",
+  "name": "Username Spoof",
+  "description": "Replace your username with any custom username (client-side)",
+  "version": "1.0.0",
   "authors": [
     {
-      "name": "Original Author",
+      "name": "suratron",
       "id": "0"
     }
   ],
-  "main": "larp.js"
+  "main": "index.js"
 }
